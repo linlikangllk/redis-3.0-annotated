@@ -25,4 +25,3 @@ deps/lua/src/liblua.a
 .make-*
 .prerequisites
 *.dSYM
-.vs/redis-3.0-annotated/v17/Browse.VC.opendb
